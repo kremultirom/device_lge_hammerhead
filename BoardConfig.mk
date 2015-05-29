@@ -155,6 +155,7 @@ EXTENDED_FONT_FOOTPRINT := true
 
 #TWRP
 TW_THEME := portrait_hdpi
+TW_THEME_LANDSCAPE := landscape_hdpi
 BOARD_HAS_NO_REAL_SDCARD := true
 RECOVERY_SDCARD_ON_DATA := true
 TW_NO_USB_STORAGE := true
