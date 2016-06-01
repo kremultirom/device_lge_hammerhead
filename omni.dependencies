@@ -1,8 +1,14 @@
 [
   {
-    "remote": "omnirom",
-    "repository": "android_kernel_lge_hammerhead",
+    "remote": "kremultirom",
+    "repository": "kernel_lge_hammerhead",
     "target_path": "kernel/lge/hammerhead",
+    "revision": "android-6.0-f2fs"
+  },
+  {
+    "remote": "kremultirom",
+    "repository": "vendor_lge",
+    "target_path": "vendor/lge",
     "revision": "android-6.0"
   }
 ]
